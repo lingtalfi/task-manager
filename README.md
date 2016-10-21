@@ -61,57 +61,57 @@ Ideas for organizing your tasks
 ### per task style
 
 - cd/ 
------ nginx conf dir
------ php conf dir
------ php-fpm conf dir 
------ mySite home
------ mySite2 home
+	- nginx conf dir
+	- php conf dir
+	- php-fpm conf dir 
+	- mySite home
+	- mySite2 home
 - edit/
------ nginx conf
------ php conf 
------ php-fpm conf 
------ mySite index
------ mySite xxx script
+	- nginx conf
+	- php conf 
+	- php-fpm conf 
+	- mySite index
+	- mySite xxx script
 - tail/ 
------ nginx error logs 
------ nginx access logs 
------ mySite nginx access logs 
------ mySite nginx error logs 
+	- nginx error logs 
+	- nginx access logs 
+	- mySite nginx access logs 
+	- mySite nginx error logs 
 - mySite/
------ show last 50 entries of the database
------ validate last entries in the database
------ validator script
+	- show last 50 entries of the database
+	- validate last entries in the database
+	- validator script
 - backups
------ backup mySite
------ backup mySite2
+	- backup mySite
+	- backup mySite2
 - others 
------ todo list
+	- todo list
 - exit
 
 
 ### per site style
 
 - open/ 
------ nginx conf dir
------ nginx conf
------ php conf dir
------ php conf 
------ php-fpm conf dir 
------ php-fpm conf 
+	- nginx conf dir
+	- nginx conf
+	- php conf dir
+	- php conf 
+	- php-fpm conf dir 
+	- php-fpm conf 
 - tail/ 
------ nginx error logs 
------ nginx access logs 
+	- nginx error logs 
+	- nginx access logs 
 - mySite/
------ show last 50 entries of the database
------ validate last entries in the database
------ validator script
------ open mySite index
------ open mySite xxx script
------ mySite nginx access logs 
------ mySite nginx error logs 
------ backup mySite
+	- show last 50 entries of the database
+	- validate last entries in the database
+	- validator script
+	- open mySite index
+	- open mySite xxx script
+	- mySite nginx access logs 
+	- mySite nginx error logs 
+	- backup mySite
 - others 
------ todo list
+	- todo list
 - exit
 
 
