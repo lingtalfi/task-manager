@@ -152,7 +152,9 @@ Sourcing is required (just executing the task manager is not enough) to allow op
 2. Create the alias.
 Open your .bashrc (linux) or .bash_profile (mac) and add the following line:
 
+```bash
 alias tm='source "/path/to/tm.sh"'
+```
 
 
 
