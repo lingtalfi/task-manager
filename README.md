@@ -10,6 +10,10 @@ A task manager for your daily tasks.
 
 
 
+Note: works better with bash 4 (I had problems with bash 3.2 which wouldn't display color codes correctly).
+
+
+
 
 
 What is it?
@@ -195,6 +199,13 @@ An **item** can be either a **task** item or a **directory** item.
 
 
 
+
+Example tasks
+----------------
+
+Look inside the [tasks](https://github.com/lingtalfi/task-manager/tree/master/tasks) directory to find some example tasks, amongst which
+
+- example-db-distant-update.sh: exports a local database to a remote server (one liner)
 
 
 
