@@ -5,10 +5,13 @@
 # then snap and pp are some git shortcuts that I use
 # https://github.com/lingtalfi/my-git-config
 
-
 php -f "/pathto/php/projects/universe-snapshots/private/scripts/duplicate.php"
-git snap "automatic commit from task manager"
+cd "/pathto/php/projects/universe-snapshots"
+git snap automatic commit from task manager 
 git pp
+
+ 
+
 
  
 
