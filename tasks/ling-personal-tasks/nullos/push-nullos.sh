@@ -8,7 +8,7 @@
 
 
 # import planets instead of symlinks
-php -f "/pathto/php/projects/nullos-admin/tools/importToDirectories.php"
+php -f "/pathto/php/projects/nullos-admin/tools/universe-import.php" -- -d
 
 
 cd "/pathto/php/projects/nullos-admin"
@@ -17,5 +17,5 @@ git pp
 
 
 # then convert back to symlinks
-php -f "/pathto/php/projects/nullos-admin/tools/importToSymLinks.php"
+php -f "/pathto/php/projects/nullos-admin/tools/universe-import.php"
  
