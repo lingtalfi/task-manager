@@ -10,6 +10,9 @@
 # import planets instead of symlinks
 php -f "/pathto/php/projects/nullos-admin/tools/universe-import.php" -- -d
 
+# create the concrete doc
+php -f "/pathto/php/projects/nullos-admin/tools/generate-doc.php"
+
 
 cd "/pathto/php/projects/nullos-admin"
 git snap automatic commit from task manager 
