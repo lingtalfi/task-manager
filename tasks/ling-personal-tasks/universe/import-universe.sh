@@ -2,5 +2,5 @@
 
 
 
-php -f "/myphp/universe-snapshots/tools/import-universe.php"
+php -f "/myphp/universe-snapshot/tools/import-universe.php"
 
