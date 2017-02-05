@@ -6,8 +6,8 @@
 # https://github.com/lingtalfi/my-git-config
 
 
-php -f "/myphp/universe-snapshots/tools/duplicate.php"
-cd "/myphp/universe-snapshots"
+php -f "/myphp/universe-snapshot/tools/duplicate.php"
+cd "/myphp/universe-snapshot"
 git snap automatic commit from task manager 
 git pp
 
