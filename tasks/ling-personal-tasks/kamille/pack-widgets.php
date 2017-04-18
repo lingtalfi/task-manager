@@ -7,7 +7,7 @@ use KamillePacker\WidgetPacker\WidgetPacker;
 require "bigbang.php";
 
 
-
+date_default_timezone_set('Europe/Paris');
 
 // FOR NOW, ONLY PACKING THE WIDGET I'M WORKING ON...
 

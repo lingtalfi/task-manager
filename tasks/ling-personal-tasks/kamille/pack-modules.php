@@ -4,6 +4,10 @@
 
 use KamillePacker\Config\Config;
 use KamillePacker\ModulePacker\ModulePacker;
+
+
+date_default_timezone_set('Europe/Paris');
+
 require "bigbang.php";
 
 
