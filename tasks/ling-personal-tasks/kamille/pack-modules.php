@@ -15,6 +15,10 @@ require "bigbang.php";
 
 $appDir = "/myphp/kaminos/app";
 $packer = ModulePacker::create(Config::create()->set('appDir', $appDir));
+
+
+
+$packer->pack("Authenticate");
 $packer->pack("Core");
 
 
